@@ -3,6 +3,8 @@
 # Noroff
 ## Back-end Development Year 1
 ### DAB Project Authentication Hotel Management
+This repo has no database functionality, all database functionality must be implemented and can be checked agains the DAB Course
+
 NOTE: Remember to create the .env file with the information for your database. The username, password, database and host information needs to be in the .env file.
 
 ### Setup the database with initial data
